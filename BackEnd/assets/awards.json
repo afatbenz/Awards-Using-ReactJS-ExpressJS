@@ -1,0 +1,81 @@
+{
+    "awards":[
+        {
+            "id":   1,
+            "name": "Gift Card IDR 1.000.000",
+            "award_type": "vouchers",
+            "set_button": "btn btn-vouchers",
+            "poin_needed": 500000
+        },
+        {
+            "id":   2,
+            "name": "Gift Card IDR 500.000",
+            "award_type": "giftcards",
+            "set_button": "btn btn-giftcards",
+            "poin_needed": 250000
+        },
+        {
+            "id":   3,
+            "name": "Old Fashion Cake",
+            "award_type": "products",
+            "set_button": "btn btn-products",
+            "poin_needed": 100000
+        },
+        {
+            "id":   4,
+            "name": "Gift Card IDR 750.000",
+            "award_type": "vouchers",
+            "set_button": "btn btn-vouchers",
+            "poin_needed": 400000
+        },
+        {
+            "id":   5,
+            "name": "Gift Card IDR 1.500.000",
+            "award_type": "vouchers",
+            "set_button": "btn btn-vouchers",
+            "poin_needed": 650000
+        },
+        {
+            "id":   6,
+            "name": "Mistery Box IDR 2.000.000",
+            "award_type": "products",
+            "set_button": "btn btn-products",
+            "poin_needed": 750000
+        },
+        {
+            "id":   7,
+            "name": "Old Fashion Cake",
+            "award_type": "products",
+            "set_button": "btn btn-products",
+            "poin_needed": 100000
+        },
+        {
+            "id":   8,
+            "name": "Gift Card IDR 750.000",
+            "award_type": "vouchers",
+            "set_button": "btn btn-vouchers",
+            "poin_needed": 400000
+        },
+        {
+            "id":   9,
+            "name": "Gift Card IDR 1.500.000",
+            "award_type": "vouchers",
+            "set_button": "btn btn-vouchers",
+            "poin_needed": 650000
+        },
+        {
+            "id":   10,
+            "name": "Voucher Liburan IDR 2.500.000",
+            "award_type": "products",
+            "set_button": "btn btn-products",
+            "poin_needed": 750000
+        },
+        {
+            "id":   11,
+            "name": "Token Listrik IDR 200.000",
+            "award_type": "vouchers",
+            "set_button": "btn btn-vouchers",
+            "poin_needed": 150000
+        }
+    ]
+}

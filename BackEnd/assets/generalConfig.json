@@ -1,0 +1,23 @@
+{
+    "companyName": "Testing Backend",
+    "menu":[
+        {
+            "id": "1",
+            "title": "Home",
+            "url": "/"
+        },{
+            "id": "2",
+            "title": "Cards",
+            "url": "/cards"
+        },{
+            "id": "3",
+            "title": "Profile",
+            "url": "/profile"
+        },
+        {
+            "id": "4",
+            "title": "Logout",
+            "url": "/logout"
+        }
+    ]
+}
