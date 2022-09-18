@@ -2,12 +2,13 @@
 This is a website application project built with Nodejs, expressJS, reactJS and MySql teknologi technologies
 
 
+First step, please create database
+> CREATE DATABASE testBackEnd;
+
+> USE testBackEnd;
+
 To run this project, dont forget to install all node modules using
 > npm install
-
-Next step, please create database
-> CREATE DATABASE testBackEnd;
-> USE testBackEnd;
 
 And copy / import SQL file from member.sql on this repository
 
