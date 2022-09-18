@@ -7,6 +7,7 @@ To run this project, dont forget to install all node modules using
 
 Next step, please create database
 > CREATE DATABASE testBackEnd;
+> USE testBackEnd;
 
 And copy / import SQL file from member.sql on this repository
 
