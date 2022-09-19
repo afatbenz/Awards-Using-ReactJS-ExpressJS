@@ -1,5 +1,5 @@
 # Awards-Using-ReactJS-ExpressJS
-This is a website application project built with Nodejs, expressJS, reactJS and MySql teknologi technologies
+This is a website application project built with Nodejs, expressJS, reactJS and MySql
 
 
 First step, please create database
