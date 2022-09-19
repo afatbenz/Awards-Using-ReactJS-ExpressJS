@@ -7,10 +7,10 @@ First step, please create database
 
 > USE testBackEnd;
 
+And copy / import SQL file from member.sql on this repository
+
 To run this project, dont forget to install all node modules using
 > npm install
-
-And copy / import SQL file from member.sql on this repository
 
 For running back-end services please use this command in terminal
 > nodemon start www
